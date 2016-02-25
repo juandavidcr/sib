@@ -1,0 +1,33 @@
+.coin {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    background-color: gray;
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: white;
+	margin: 10px;
+	display: inline-block;
+	line-height: 50px;
+	font-size: 20px;
+}
+.sin{
+	text-decoration: none;
+}
+
+.control-medium-input{
+	width: 20%;
+	border: 1px;
+	color: #f60;
+	margin-right: 15%;
+}
+.control-medium-input>input{
+   display: inline-block;
+} 
+input:-moz-read-write { background: #eee; }
+input:read-write { background: #eee; }
+.big{
+	border-color: #f60;
+}
+
